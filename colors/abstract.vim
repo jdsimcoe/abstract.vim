@@ -23,7 +23,7 @@ hi Visual ctermfg=NONE ctermbg=241 cterm=NONE guifg=NONE guibg=#2E2F31 gui=NONE
 hi CursorLine ctermbg=236 cterm=NONE guifg=NONE guibg=#2E2F31 gui=NONE
 hi CursorColumn ctermbg=236 cterm=NONE guifg=NONE guibg=#2E2F31 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=236 cterm=NONE guifg=NONE guibg=#3d3f49 gui=NONE
-hi LineNr ctermfg=243 ctermbg=NONE cterm=NONE guifg=#909194 guibg=#2E2F31 gui=NONE
+hi LineNr ctermfg=240 ctermbg=NONE cterm=NONE guifg=#5C5E5F guibg=#2E2F31 gui=NONE
 hi VertSplit ctermfg=231 ctermbg=236 cterm=bold guifg=#64666d guibg=#64666d gui=bold
 hi MatchParen ctermfg=205 ctermbg=NONE cterm=underline guifg=#FF479F guibg=NONE gui=underline
 hi StatusLine ctermfg=231 ctermbg=236 cterm=bold guifg=#f8f8f2 guibg=#64666d gui=bold
@@ -39,7 +39,7 @@ hi FoldColmun ctermfg=246 ctermbg=235 cterm=NONE guifg=#909194 guibg=#2E2F31 gui
 hi Normal guifg=#f8f8f2 guibg=#2E2F31 gui=NONE
 hi Boolean ctermfg=62 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
 hi Character ctermfg=62 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
-hi Comment ctermfg=33 ctermbg=NONE cterm=NONE guifg=#007AFF guibg=NONE gui=NONE
+hi Comment ctermfg=240 ctermbg=NONE cterm=NONE guifg=#5C5E5F guibg=NONE gui=NONE
 hi Conditional ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
 hi Constant ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Define ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
